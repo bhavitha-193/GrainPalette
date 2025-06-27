@@ -1,1 +1,1 @@
-# GrainPalette
+# GrainPalette - Rice Type Classification
