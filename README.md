@@ -53,4 +53,5 @@ python app.py
 ## 📞 Contact
 **Bhavithanjali Grandhi**  
 📧 bhavithanjaligrandhi@gmail.com
+
 🔗 [SmartInternz Internship Project]
